@@ -1,4 +1,4 @@
-# ThinkPad T460s running macOS (OpenCore bootloader)
+# ThinkPad  running macOS (OpenCore bootloader)
 
 [![macOS](https://img.shields.io/badge/macOS-12.0.1-blue)](https://developer.apple.com/documentation/macos-release-notes)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.7.5-green)](https://github.com/acidanthera/OpenCorePkg)
