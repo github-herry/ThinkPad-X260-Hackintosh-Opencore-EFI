@@ -1,4 +1,4 @@
-# ThinkPad  running macOS (OpenCore bootloader)
+# ThinkPad X260 running macOS (OpenCore bootloader)
 
 [![macOS](https://img.shields.io/badge/macOS-12.0.1-blue)](https://developer.apple.com/documentation/macos-release-notes)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.7.5-green)](https://github.com/acidanthera/OpenCorePkg)
@@ -193,5 +193,3 @@ git clone https://github.com/corpnewt/GenSMBIOS && cd GenSMBIOS && chmod +x GenS
 - [ ] Fingerprint Reader
 
 </details>
-
-<details>  
