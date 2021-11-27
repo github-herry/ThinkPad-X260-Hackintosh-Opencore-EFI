@@ -195,7 +195,3 @@ git clone https://github.com/corpnewt/GenSMBIOS && cd GenSMBIOS && chmod +x GenS
 </details>
 
 <details>  
-<summary><strong>Update tracker 🔄</strong></summary>
-</br>
-
-</details>
