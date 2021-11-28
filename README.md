@@ -1,3 +1,5 @@
+<img src="https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Logos/OpenCore_with_text_Small.png" width="200" height="48"/>
+
 # ThinkPad X260 running macOS (OpenCore bootloader)
 
 [![macOS](https://img.shields.io/badge/macOS-12.0.1-blue)](https://developer.apple.com/documentation/macos-release-notes)
