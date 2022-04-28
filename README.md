@@ -2,7 +2,7 @@
 
 # ThinkPad X260 running macOS (OpenCore bootloader)
 
-[![macOS](https://img.shields.io/badge/macOS-12.0.1-blue)](https://developer.apple.com/documentation/macos-release-notes)
+[![macOS](https://img.shields.io/badge/macOS-12.3-blue)](https://developer.apple.com/documentation/macos-release-notes)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.7.5-green)](https://github.com/acidanthera/OpenCorePkg)
 [![License](https://img.shields.io/badge/license-MIT-purple)](/LICENSE)
 
