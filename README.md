@@ -3,7 +3,7 @@
 # ThinkPad X260 Hackintosh Project (OpenCore bootloader)
 
 [![macOS](https://img.shields.io/badge/macOS-12.4-blue)](https://developer.apple.com/documentation/macos-release-notes)
-[![macOS](https://img.shields.io/badge/macOS-12.5 Beta-red)](https://developer.apple.com/documentation/macos-release-notes)
+[![macOS](https://img.shields.io/badge/macOS-12.5-Beta-bule)](https://developer.apple.com/documentation/macos-release-notes)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.8.3-green)](https://github.com/acidanthera/OpenCorePkg)
 
 **DISCLAIMER:**  
